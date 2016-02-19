@@ -1,9 +1,10 @@
 ![Sketch-example](header.png)
 # Tech font
-Sketch template with graphical assets and logotypes of cool open-source projects. Made by [Jonas Bröms](https://twitter.com/jonasbroms).
+Sketch template with graphical assets and logotypes of cool open-source technologies. Made by [Jonas Bröms](https://twitter.com/jonasbroms).
 
 ## Table of contents
 * [File formats](#file-formats)
+* [Different weights](#different-weights)
 * [Included Technologies](#included-technologies)
 * [Overall Structure](#overall-structure)
 * [What's new](#whats-new)
@@ -16,7 +17,7 @@ Sketch template with graphical assets and logotypes of cool open-source projects
 * [Disclaimer](#disclaimer)
 
 ## File formats
-Following file formats are included within this template:
+Following file formats will be included within this template when released:
 * Sketch file
 * Installable font (.eot, .ttf, .woff)
 * SVG files
@@ -174,8 +175,8 @@ Shared Styles/
 ## Contributer
 
 ## Special thanks to:
-[SvgPorn](http://svgporn.com/)
-[IcoMoon](https://icomoon.io/app/)
+* [SvgPorn](http://svgporn.com/)
+* [IcoMoon](https://icomoon.io/app/)
 
 ## Copyright and license
 Graphical assets, files, code and documentation released under the [MIT](https://). Docs released under [Creative Commons](https://).
